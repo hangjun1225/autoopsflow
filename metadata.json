@@ -1,0 +1,6 @@
+{
+  "name": "OpsFlow",
+  "description": "Next-generation automated deployment and release management platform featuring pipeline management, change request approvals, and grey release support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
